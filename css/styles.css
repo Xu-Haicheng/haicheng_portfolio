@@ -1,0 +1,166 @@
+#title {
+  background-color: #a2d5f2;
+}
+
+.my-image {
+  border-radius: 50%;
+  margin: 10px;
+  width: 10%;
+}
+
+body {
+  font-family: source code pro;
+}
+
+h1 {
+  font-family: Lora;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+.container-fluid {
+  padding: 3% 18%;
+}
+
+.navbar-brand {
+  font-family: source code pro;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.navbar {
+  padding: 0 0 3.5rem;
+}
+
+.navbar-item {
+  font-family: source code pro;
+  padding: 0 20px;
+  font-size: 1.2rem;
+}
+
+.download-button {
+  margin: 5% 5% 5% 0%;
+}
+
+.title-image {
+  width: 70%;
+  transform: rotate(-10deg);
+  position: absolute;
+}
+
+.center {
+  text-align: center;
+  font-family: Lora;
+}
+
+.white {
+  color: white;
+}
+
+.green {
+  color: green;
+}
+
+#introduction {
+  padding: 10% 18%;
+  background-color: #07689f;
+  color: white;
+  font-family: Lora;
+  line-height: 2;
+}
+
+#features {
+  padding: 10% 18%;
+  background-color: #a2d5f2;
+}
+
+#samples {
+  text-align: center;
+  padding: 10% 18%;
+  background-color: #07689f;
+}
+
+.feature-box {
+  text-align: center;
+}
+
+h3 {
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: source code pro;
+}
+
+.icon:hover {
+  color: #8fdbf2;
+}
+
+#testimonials {
+  background-color: #a2d5f2;
+  text-align: center;
+  font-family: Lora;
+  padding: 10% 15%;
+}
+
+.carousel-item {
+  padding: 10% 15%;
+}
+
+h2 {
+  line-height: 1.5;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+#education {
+  background-color: #a2d5f2;
+  text-align: center;
+  padding: 10% 15%;
+}
+
+h5 {
+  font-weight: bold;
+}
+
+.card {
+  padding: 5px;
+}
+
+#cta {
+  background-color: #07689f;
+  padding: 10% 15%;
+  text-align: center;
+  font-family: source code pro;
+  color: white;
+}
+
+.btn-font {
+  font-family: source code pro;
+}
+
+.cta-h3 {
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 70px;
+}
+
+#footer {
+  padding: 10% 15%;
+  text-align: center;
+  background-color: #a2d5f2;
+}
+
+.ssm {
+  margin: 20px 10px;
+}
+
+@media (max-width:992px) {
+  #title {
+    text-align: center;
+  }
+
+  .title-image {
+    width: 70%;
+    transform: rotate(0deg);
+    position: static;
+  }
+}
